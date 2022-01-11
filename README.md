@@ -1,20 +1,2 @@
-# 合成大欧派（P家） #
-
-合成大西瓜的P家版本。合成顺序为：暗妃鲁咪蕾->古守血游->真白花音->铃宫铃->椎名菜羽->有栖Mana->乙女音->绯赤艾莉欧->花园Serena->梦乃栞->紫桃爱音。如对合成顺序有异议，请提交申请与我们一同迫害。
-
-# hhh
-# x
-# Play01
-# Play01
-# Play01
-# Play01
-# Play01
-# Play01
-# Play01
-# Play01
-# xx
-# xx
-# xx
-# x
-# Play01
-# LOVE
+[README.md](https://github.com/Ruok007/LOVE/files/7845861/README.md)
+![singleColor](https://user-images.githubusercontent.com/97510485/148929853-60d8e361-9dae-418d-88c9-4802adae4363.png)
